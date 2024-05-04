@@ -50,7 +50,7 @@ Simply input your budget and log any expenses. Check Wallet will handle the rest
 We welcome contributions from the community. If you have suggestions or improvements, please send us a pull request or open an issue to discuss your ideas.
 
 ## Team
-- Bharat Garsondiya - bharat.garsondiya2609@gmail.com
+- Bharat Garsondiya - bharat.garsondiya2609@gmail.com (http://bharatgarsondiya.design/)
 - Tannu Singal - tannu@gmail.com
 
 ## License
