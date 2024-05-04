@@ -41,7 +41,7 @@ npm start
 2. Open your web browser and navigate to `http://localhost:3000` to view the app.
 
 Remember to replace `your-username` with your actual GitHub username. These instructions will guide users through the process of setting up Node.js, installing dependencies, and running your application locally for development and testing purposes.
-```
+
 
 ## Usage
 Simply input your budget and log any expenses. Check Wallet will handle the rest, giving you a clear view of your financial health.
