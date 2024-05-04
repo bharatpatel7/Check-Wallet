@@ -12,8 +12,6 @@ Check Wallet is an intuitive budgeting app designed to help users manage their f
 Before you begin, ensure you have met the following requirements:
 - You have installed the latest version of Node.js.
 
-Certainly! Here's an updated section of your README to include instructions for setting up Node.js and running the app locally:
-
 ```markdown
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
