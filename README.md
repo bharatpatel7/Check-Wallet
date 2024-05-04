@@ -51,6 +51,7 @@ We welcome contributions from the community. If you have suggestions or improvem
 
 ## Team
 - Bharat Garsondiya - bharat.garsondiya2609@gmail.com (http://bharatgarsondiya.design/)
+- Tannu Singal - tannusingal33@gmail.com
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
